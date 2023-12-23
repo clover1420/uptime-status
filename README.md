@@ -2,7 +2,7 @@
 
 修改于[uptime-status](https://github.com/yb/uptime-status)的项目
 
-<img width="1152" alt="image" src="https://user-images.githubusercontent.com/25887822/178935137-6d23521d-5894-4fb8-922d-3575be4f7abc.png">
+<img width="1152" alt="image" src="https://sm.ms/image/GebCgkDphtXj5Q9">
 
 ## 事先准备
 
