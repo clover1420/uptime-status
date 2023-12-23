@@ -2,7 +2,7 @@
 
 修改于[uptime-status](https://github.com/yb/uptime-status)的项目
 
-<img width="1152" alt="image" src="https://sm.ms/image/GebCgkDphtXj5Q9">
+<img width="1152" alt="image" src="https://s2.loli.net/2023/12/23/GebCgkDphtXj5Q9.png">
 
 ## 事先准备
 
@@ -11,7 +11,7 @@
 
 ## 如何部署：
 
-- 下载并解压缩：[uptime-status.zip](https://github.com/yb/uptime-status/releases/latest/download/uptime-status.zip "uptime-status.zip") 
+- 下载并解压缩：[uptime-status.zip](https://github.com/clover1420/uptime-status/releases/download/v2.0.1/v2.0.1.zip "uptime-status.zip") 
 - 修改 `config.js` 文件：
    - `SiteName`: 要显示的网站名称
    - `CopyrightYear`: 版权年份
