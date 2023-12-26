@@ -24,7 +24,7 @@ function App() {
         </div>
         <div id='footer'>
           <p>基于 <Link to='https://uptimerobot.com/' text='UptimeRobot' /> 接口制作，检测频率 5 分钟</p>
-          <p>&copy;{window.Config.CopyrightYear} <Link to='https://status.org.cn/' text='FHRF.TOP' />, Version {Package.version}</p>
+          <p>&copy;{window.Config.CopyrightYear} <Link to='https://fhrf.top' text='FHRF.TOP' />, Version {Package.version}</p>
         </div>
       </div>
     </>
