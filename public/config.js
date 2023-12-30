@@ -19,6 +19,9 @@ window.Config = {
   // 是否显示检测站点的链接
   ShowLink: true,
 
+  // 背景图片
+  Image: 'https://t.mwm.moe/pc',
+
   // 导航栏菜单
   Navi: [
     {

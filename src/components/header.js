@@ -5,6 +5,7 @@ function Header() {
 
   useEffect(() => {
     document.title = window.Config.SiteName;
+    document.body.setAttribute("style", "background: url('"+ window.Config.Image +"') no-repeat;");
   }, []);
 
   return (
